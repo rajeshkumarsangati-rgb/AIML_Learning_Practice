@@ -1,0 +1,6 @@
+customer_id,age,city,monthly_spend,active
+1,34,Bengaluru,120.5,yes
+2,22,Delhi,45.0,no
+3,45,Mumbai,200.0,yes
+4,31,Kolkata,75.0,yes
+5,28,Bengaluru,NaN,no
